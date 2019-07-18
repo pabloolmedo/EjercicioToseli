@@ -1,0 +1,14 @@
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\netcoreapp2.1\EjerciciosCSharp.deps.json
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\netcoreapp2.1\EjerciciosCSharp.runtimeconfig.json
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\netcoreapp2.1\EjerciciosCSharp.runtimeconfig.dev.json
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\netcoreapp2.1\EjerciciosCSharp.dll
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\netcoreapp2.1\EjerciciosCSharp.pdb
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\netcoreapp2.1\Entity.dll
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\netcoreapp2.1\Entity.pdb
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\netcoreapp2.1\EjerciciosCSharp.csprojAssemblyReference.cache
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\netcoreapp2.1\EjerciciosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\netcoreapp2.1\EjerciciosCSharp.AssemblyInfoInputs.cache
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\netcoreapp2.1\EjerciciosCSharp.AssemblyInfo.cs
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\netcoreapp2.1\EjerciciosCSharp.csproj.CopyComplete
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\netcoreapp2.1\EjerciciosCSharp.dll
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\netcoreapp2.1\EjerciciosCSharp.pdb
